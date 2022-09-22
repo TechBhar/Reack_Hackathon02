@@ -1,0 +1,60 @@
+{
+  "customers": [
+    {
+      "id": "muthub@gmail.com",
+      "name": "Bharathy",
+      "address": "33/12 A Chennai 33",
+      "accNo": 8091029,
+      "phone": 7305345024,
+      "password": "bharathy12"
+    },
+    {
+      "id": "mkga@gmail.com",
+      "name": "Krithigha",
+      "address": "7/3 B Chennai 33",
+      "accNo": 8091030,
+      "phone": 7871191434,
+      "password": "krithigha12"
+    },
+    {
+      "id": "krishnaks@gmail.com",
+      "name": "Krishna",
+      "address": "14 /6 Aatur, Salem",
+      "accNo": "8091045",
+      "phone": "9842125316",
+      "password": "krishna12"
+    },
+    {
+      "id": "badiadr@gmail.com",
+      "name": "Rahul",
+      "address": "12/33 Kolathur",
+      "accNo": "8081089",
+      "phone": "9845674168",
+      "password": "rahul12"
+    },
+    {
+      "id": "sbravi@gmail.com",
+      "name": "Ravi Balan",
+      "address": "33/12 A xyz street",
+      "accNo": "8091045",
+      "phone": "9944945024",
+      "password": "ravi12"
+    },
+    {
+      "id": "pavi@gmail.com",
+      "name": "Pavithra",
+      "address": "Aatur, Salem",
+      "accNo": "8091045",
+      "phone": "80255678910",
+      "password": "pavithra12"
+    },
+    {
+      "id": "rockfortlatha@gmail.com",
+      "name": "Latha",
+      "address": "33/12 A xyz street",
+      "accNo": "6754890123",
+      "phone": "9094045024",
+      "password": "latha12"
+    }
+  ]
+}
